@@ -11,7 +11,7 @@ Sou natural do Rio de Janeiro e vivo em São Paulo há 11 anos. Estou em transi�
 
 ♻️ Parte do projeto sócio-ambiental [Sustexmoda](https://www.sustexmoda.org)
 
-🎧 DJ há 4 anos - [ouça o meu som!](https://soundcloud.com/transvegana)
+🎧 DJ de música eletrônica há 4 anos - [ouça o meu som!](https://soundcloud.com/transvegana) 🔉
 
 👩🏻‍💻 Sei que ainda estou no início da minha jornada, mas estou bem focada na minha evolução pessoal. Tenho curtido muito o processo e estou me preparando para buscar oportunidades profissionais na área!
 
@@ -23,4 +23,4 @@ Sou natural do Rio de Janeiro e vivo em São Paulo há 11 anos. Estou em transi�
 
 ## 📲 Conecte-se comigo
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michelle-maus-b19555306/) [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/transvegana/) [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:michellemaus.mi@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michelle-maus/) [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/transvegana/) [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:michellemaus.mi@gmail.com)
